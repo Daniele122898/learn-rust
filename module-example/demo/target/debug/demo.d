@@ -1,0 +1,1 @@
+F:\Coding\rust\module-example\demo\target\debug\demo.exe: F:\Coding\rust\module-example\demo\src\main.rs F:\Coding\rust\module-example\phrases\src\greetings\english.rs F:\Coding\rust\module-example\phrases\src\lib.rs

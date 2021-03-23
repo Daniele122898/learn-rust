@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["english",""],["french","This module contains French phrases"]]});

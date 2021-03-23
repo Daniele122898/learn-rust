@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["hello","Says hello in french: `bonjour`."]]});
