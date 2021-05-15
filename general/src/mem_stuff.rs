@@ -97,7 +97,7 @@ fn ref_counted() {
 }
 
 fn lifetime() {
-    // static is a lifetime of : lifes as long as the program.
+    // static is a lifetime of : lives as long as the program.
     let s: &'static str = "Halu";
 
      struct Person {
